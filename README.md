@@ -12,7 +12,7 @@ coverage](https://codecov.io/gh/jennybc/bingo/branch/master/graph/badge.svg)](ht
 <!-- badges: end -->
 
 # bingo
-
+test - ae
 Generate Bingo cards.
 
 Currently has built-in squares for SuperBowl 50 :football: and data /
